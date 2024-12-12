@@ -598,7 +598,7 @@ body {
     content: '';
     position: absolute;
     left: 50%;
-    bottom: -50px;
+    bottom: -49px;
     display: inline-block;
     border: 25px solid transparent;
     border-top: 25px solid #EBBA4D;
