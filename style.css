@@ -1503,8 +1503,8 @@ body {
         margin-bottom: 30px;
         font-size: 25px;
     }
-    .sec12 h4 {
-        font-size: 18px;
+    .sec12 .inner h4 {
+        font-size: 15px;
     }
     .sec12 p {
         margin-bottom: 30px;
